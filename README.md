@@ -8,3 +8,7 @@ This is information about this file
 This is another line
 
 Now i have added another file to project
+
+# this is for branch 
+
+open index.html in your browser and use branch for this
