@@ -8,6 +8,10 @@ some changing in 2nd file
 
 # another heading
 
-this is subheading 3
+I deleted this line here
 
 another line added
+
+#Its update from iBT
+
+hello this is update from ibt to chek status of git
